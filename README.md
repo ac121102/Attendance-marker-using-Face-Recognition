@@ -8,4 +8,3 @@ Path setting to the directory containing the image database. Read each image and
 4. Now the incoming images are tested against the previously-stored encodings. Then the face distance is also computed. Lastly, we call the Attendance function along with the person name who is identified.
 5. Reading from attendance file, Storing data(Name and Time of entry) if previously not stored.
 
-![alt text](https://github.com/ac121102/Attendance-marker-using-Face-Recognition/edit/main/README.md)
